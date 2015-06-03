@@ -15,6 +15,8 @@
  *
  * @author John Walker
  * I spent roughly 8-10 hours on this assignment.
+ *
+ * I collaborated with Bro. Murray
  */
 
 package com.example.johnathon.multi_threadedapp;
